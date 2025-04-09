@@ -1,4 +1,5 @@
 # Platzi Exchange
+![image](https://github.com/user-attachments/assets/511a1923-b7a1-4c7d-8d76-797e1f954a3c)
 
 Platzi Exchange es una aplicación web desarrollada con Vue.js que permite consultar las cotizaciones de las criptomonedas más importantes utilizando la API REST de CoinCap.
 
